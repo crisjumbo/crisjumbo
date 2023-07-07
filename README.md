@@ -1,27 +1,25 @@
-<h1> 🌕 Willkomen! Ich bin Cris  🌑 </h1>
+<h1> 🌕 Willkomen! Ich bin Cris, React/Java Fullstack developer  🌑 </h1>
 <div>
-<img alt="Github Followers" src="https://img.shields.io/github/followers/srcristofher?style=social"/>
+<img alt="Github Followers" src="https://img.shields.io/github/followers/crisjumbo?style=social"/>
 &nbsp;
 </div>
 <div>
-  I am a Fullstack developer (React & Python). In my free time I enjoy collaborating in open source projects, hardware and software. Feel free to contact me.
+  I am a Fullstack developer (React & Java). I enjoy being in my computer coding different ideas or projects.
 <br/>
 <br/>
-🏹 Boosting Startups and Communities, reach me out! 🏹
+🏹 Reach me out for collabs or projects! 🏹
 </div>
 <br/>
 <br/>
 <div>
-<a style="color:green" href="https://cjumbo.me">Personal Portfolio</a> | <a href="https://believeplus.com">Business Portfolio</a> | <a href="https://www.youtube.com/channel/UCFddZttLe9EByIV-UluJ-Qg">Youtube Channel</a>
+<a style="color:green" href="https://crisjumbo.me">Personal Portfolio</a> | <a href="https://believeplus.com">Business Portfolio</a>
 </div>
 <br/>
-<i>Boosting online business since 2018. Contact me then !</i>
+<i>Coding the future world! 💻 💚</i>
 
 ### Send me a "Aloha!" on :
-[LinkedIn](https://www.linkedin.com/in/cristofher-jumbo-jimenez/) | 
-[Twitter](https://twitter.com/Ayton_que) | 
-[Facebook](https://www.facebook.com/ibk.ibk.ibk) |
-[Github](https://www.github.com/srcristofher)
+[LinkedIn](https://www.linkedin.com/in/crisjumbo/) | 
+[Github](https://www.github.com/crisjumbo)
 
 ### Author
 Cristofher Jumbo

@@ -12,7 +12,7 @@
 <br/>
 <br/>
 <div>
-<a style="color:green" href="https://crisjumbo.me">Personal Portfolio</a>
+<a style="color:green" href="https://crisjumbo.me">>Personal Portfolio<</a>
 </div>
 <br/>
 <i>Coding the future world! 💻 💚</i>

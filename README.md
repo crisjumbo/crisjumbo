@@ -1,4 +1,4 @@
-<h1> 🌕 Willkomen! Ich bin Cris, React & Java Fullstack developer  🌑 </h1>
+<h1> 🌕 Willkomen! Ich bin Cris, React & Java software engineer  🌑 </h1>
 <div>
 <img alt="Github Followers" src="https://img.shields.io/github/followers/crisjumbo?style=social"/>
 &nbsp;
@@ -17,7 +17,7 @@
 <br/>
 <i>Coding the future world! 💻 💚</i>
 
-### Send me a "Aloha!" on :
+### Send me a "Hi!" on :
 [LinkedIn](https://www.linkedin.com/in/crisjumbo/) | 
 [Github](https://www.github.com/crisjumbo)
 

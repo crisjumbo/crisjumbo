@@ -17,7 +17,7 @@
 <br/>
 <i>Coding the future world! 💻 💚</i>
 
-### Send me a "Hi!" on :
+### Send me message through :
 [LinkedIn](https://www.linkedin.com/in/crisjumbo/) | 
 [Github](https://www.github.com/crisjumbo)
 

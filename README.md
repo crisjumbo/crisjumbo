@@ -4,7 +4,7 @@
 &nbsp;
 </div>
 <div>
-  I am a Fullstack software engineer (React & Java). I enjoy being in my computer coding different ideas and projects.
+  I am a software engineer (React & Java). I enjoy being in my computer coding different ideas and projects.
 <br/>
 <br/>
 🏹 Reach me out for collabs or projects! 🏹

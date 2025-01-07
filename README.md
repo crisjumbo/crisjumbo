@@ -7,7 +7,7 @@
   I am a software engineer (React & Java). I enjoy being in my computer coding different ideas and projects.
 <br/>
 <br/>
-🏹 Reach me out for collabs or projects! 🏹
+🏹 For an enhanced product, text me! 🏹
 </div>
 <br/>
 <br/>

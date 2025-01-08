@@ -15,7 +15,7 @@
 <a style="color:green" href="https://crisjumbo.me">>Personal Portfolio<</a>
 </div>
 <br/>
-<i>Coding the future world! 💻 💚</i>
+<i>Coding for better world! 💻 💚</i>
 
 ### Send me message through :
 [LinkedIn](https://www.linkedin.com/in/crisjumbo/) | 

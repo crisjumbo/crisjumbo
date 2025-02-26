@@ -1,4 +1,4 @@
-<h1> 🌕 Willkomen! Ich bin Cris, React & Java software engineer  🌑 </h1>
+<h1> 🌕 Willkomen! Ich bin Cris - React & Java software engineer  🌑 </h1>
 <div>
 <img alt="Github Followers" src="https://img.shields.io/github/followers/crisjumbo?style=social"/>
 &nbsp;
